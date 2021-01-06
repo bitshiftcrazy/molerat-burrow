@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":10,
  "infinite":false,
  "layers":[
@@ -24,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/bitshiftcrazy.github.io\/molerat-burrow\/map.json"
+                 "value":"map.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
