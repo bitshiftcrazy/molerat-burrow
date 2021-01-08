@@ -193,7 +193,7 @@
         {
          "columns":4,
          "firstgid":257,
-         "image":"tiles_png\/kati_floor.png",
+         "image":"tiles_png\/kati_tiles\/kati_floor.png",
          "imageheight":224,
          "imagewidth":128,
          "margin":0,
@@ -206,7 +206,7 @@
         {
          "columns":4,
          "firstgid":285,
-         "image":"tiles_png\/kati_furniture.png",
+         "image":"tiles_png\/kati_tiles\/kati_furniture.png",
          "imageheight":224,
          "imagewidth":128,
          "margin":0,
@@ -292,7 +292,7 @@
         {
          "columns":8,
          "firstgid":313,
-         "image":"floortileset.png",
+         "image":"tiles_png\/kati_tiles\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1292,7 +1292,7 @@
         {
          "columns":5,
          "firstgid":477,
-         "image":"tiles_png\/kati_deko.png",
+         "image":"tiles_png\/kati_tiles\/kati_deko.png",
          "imageheight":224,
          "imagewidth":160,
          "margin":0,
@@ -1305,7 +1305,7 @@
         {
          "columns":4,
          "firstgid":512,
-         "image":"tiles_png\/linux1.png",
+         "image":"tiles_png\/kati_tiles\/linux1.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -1318,7 +1318,7 @@
         {
          "columns":2,
          "firstgid":528,
-         "image":"tiles_png\/linux_tiles.png",
+         "image":"tiles_png\/kati_tiles\/linux_tiles.png",
          "imageheight":96,
          "imagewidth":64,
          "margin":0,

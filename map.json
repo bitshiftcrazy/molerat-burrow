@@ -1631,7 +1631,7 @@
         {
          "columns":16,
          "firstgid":357,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"tiles_png\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1644,7 +1644,7 @@
         {
          "columns":8,
          "firstgid":613,
-         "image":"floortileset.png",
+         "image":"tiles_png\/kati_tiles\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -3457,7 +3457,7 @@
         {
          "columns":1,
          "firstgid":5174,
-         "image":"tiles_png\/arch_sticker_tile.png",
+         "image":"tiles_png\/kati_tiles\/arch_sticker_tile.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -3470,7 +3470,7 @@
         {
          "columns":3,
          "firstgid":5175,
-         "image":"tiles_png\/dungeon_objects.png",
+         "image":"tiles_png\/kati_tiles\/dungeon_objects.png",
          "imageheight":64,
          "imagewidth":96,
          "margin":0,
@@ -3483,7 +3483,7 @@
         {
          "columns":2,
          "firstgid":5181,
-         "image":"tiles_png\/altar_blood.png",
+         "image":"tiles_png\/kati_tiles\/altar_blood.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -3496,7 +3496,7 @@
         {
          "columns":2,
          "firstgid":5185,
-         "image":"tiles_png\/linux_tiles.png",
+         "image":"tiles_png\/kati_tiles\/linux_tiles.png",
          "imageheight":96,
          "imagewidth":64,
          "margin":0,
@@ -3509,7 +3509,7 @@
         {
          "columns":4,
          "firstgid":5191,
-         "image":"tiles_png\/linux1.png",
+         "image":"tiles_png\/kati_tiles\/linux1.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -3522,7 +3522,7 @@
         {
          "columns":6,
          "firstgid":5207,
-         "image":"tiles_png\/instagram_tiles.png",
+         "image":"tiles_png\/kati_tiles\/instagram_tiles.png",
          "imageheight":224,
          "imagewidth":192,
          "margin":0,
@@ -3535,7 +3535,7 @@
         {
          "columns":4,
          "firstgid":5249,
-         "image":"tiles_png\/trees.png",
+         "image":"tiles_png\/kati_tiles\/trees.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,

@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":30,
  "infinite":false,
  "layers":[
@@ -410,7 +417,7 @@
         {
          "columns":6,
          "firstgid":321,
-         "image":"tiles_png\/instagram_tiles.png",
+         "image":"tiles_png\/kati_tiles\/instagram_tiles.png",
          "imageheight":224,
          "imagewidth":192,
          "margin":0,
@@ -423,7 +430,7 @@
         {
          "columns":3,
          "firstgid":363,
-         "image":"tiles_png\/dungeon_objects.png",
+         "image":"tiles_png\/kati_tiles\/dungeon_objects.png",
          "imageheight":64,
          "imagewidth":96,
          "margin":0,
@@ -436,7 +443,7 @@
         {
          "columns":2,
          "firstgid":369,
-         "image":"tiles_png\/linux_tiles.png",
+         "image":"tiles_png\/kati_tiles\/linux_tiles.png",
          "imageheight":96,
          "imagewidth":64,
          "margin":0,
@@ -449,7 +456,7 @@
         {
          "columns":4,
          "firstgid":375,
-         "image":"tiles_png\/linux1.png",
+         "image":"tiles_png\/kati_tiles\/linux1.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -475,7 +482,7 @@
         {
          "columns":2,
          "firstgid":519,
-         "image":"tiles_png\/altar_blood.png",
+         "image":"tiles_png\/kati_tiles\/altar_blood.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -488,7 +495,7 @@
         {
          "columns":8,
          "firstgid":523,
-         "image":"floortileset.png",
+         "image":"tiles_png\/kati_tiles\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
