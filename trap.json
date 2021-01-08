@@ -51,6 +51,18 @@
          "y":0
         }, 
         {
+         "data":[0, 0, 0, 0, 0, 0, 81, 0, 0, 0, 0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":5,
+         "id":7,
+         "name":"corpse",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":5,
+         "x":0,
+         "y":0
+        }, 
+        {
          "draworder":"topdown",
          "id":5,
          "name":"floorLayer",
@@ -73,7 +85,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":7,
+ "nextlayerid":8,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -203,6 +215,19 @@
          "name":"dungeon_objects",
          "spacing":0,
          "tilecount":9,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":6,
+         "firstgid":74,
+         "image":"tiles_png\/kati_tiles\/instagram_tiles.png",
+         "imageheight":224,
+         "imagewidth":192,
+         "margin":0,
+         "name":"instagram_tiles",
+         "spacing":0,
+         "tilecount":42,
          "tileheight":32,
          "tilewidth":32
         }],
