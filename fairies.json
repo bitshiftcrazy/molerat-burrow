@@ -81,7 +81,7 @@
         {
          "data":[320, 332, 315, 333, 334,
             0, 0, 343, 344, 0,
-            0, 0, 345, 346, 315,
+            315, 0, 345, 346, 315,
             331, 0, 0, 0, 0,
             337, 0, 315, 320, 320],
          "height":5,
@@ -109,7 +109,7 @@
         {
          "data":[331, 0, 0, 0, 301,
             337, 0, 0, 0, 307,
-            315, 321, 0, 323, 324,
+            0, 321, 0, 323, 324,
             0, 327, 0, 329, 330,
             0, 320, 0, 335, 336],
          "height":5,
@@ -160,7 +160,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -169,7 +169,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -178,7 +178,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -187,7 +187,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -325,7 +325,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -344,7 +344,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -353,7 +353,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -362,7 +362,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -371,7 +371,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -417,7 +417,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -426,7 +426,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 },
             
